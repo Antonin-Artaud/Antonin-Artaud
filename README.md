@@ -20,6 +20,12 @@ I build clean, testable **C# / ASP.NET Core** back ends (DDD, hexagonal architec
 | Infra & quality | Docker, Azure, GitHub Actions, TDD/BDD, xUnit |
 | AI & tooling | Claude Code (agents, skills, hooks), GitHub Copilot agent plugins |
 
+## 🎓 Certifications
+
+- **Microsoft Certified: Azure AI Fundamentals** (AI-900)
+- **Microsoft Certified: Azure Fundamentals** (AZ-900)
+- **GitHub Copilot** (GH-300), in preparation
+
 ## 🚀 Featured projects
 
 ### [SysDesign Arena](https://github.com/Antonin-Artaud/SysDesign-Arena)
