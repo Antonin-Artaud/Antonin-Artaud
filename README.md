@@ -23,7 +23,7 @@ I build clean, testable **C# / ASP.NET Core** back ends (DDD, hexagonal architec
 ## 🎓 Certifications
 
 - **Microsoft Certified: Azure AI Fundamentals** (AI-900)
-- **Microsoft Certified: Azure Fundamentals** (AZ-900)
+- **Microsoft Certified: Azure Fundamentals** (AZ-900), in preparation
 - **GitHub Copilot** (GH-300), in preparation
 
 ## 🚀 Featured projects
