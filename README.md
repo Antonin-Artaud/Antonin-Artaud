@@ -1,34 +1,35 @@
-# Salut, moi c'est Antonin 👋
+# Hi, I'm Antonin 👋
 
-**Software Engineer full-stack .NET & Angular** chez Sopra Steria · Nice 🇫🇷
-En route vers un rôle d'**architecte logiciel** : system design, DDD, architectures qui tiennent dans la durée.
+**Full-stack Software Engineer, .NET & Angular** at Sopra Steria · Nice, France 🇫🇷
+Heading toward a **software architect** role: system design, DDD, and architectures built to last.
 
-Je conçois des back-ends **C# / ASP.NET Core** propres et testables (DDD, architecture hexagonale, Clean Architecture) et les front-ends **Angular** qui vont avec. Mon terrain de jeu en ce moment : le **system design** et la manière dont les **agents IA** (Claude Code, GitHub Copilot) peuvent livrer du code de qualité production, du cadrage du besoin jusqu'à la PR revue.
+I build clean, testable **C# / ASP.NET Core** back ends (DDD, hexagonal architecture, Clean Architecture) and the **Angular** front ends that go with them. I work on the latest .NET while bringing solid experience with **legacy .NET Framework** applications. Lately I've been focused on **system design** and on how **AI agents** (Claude Code, GitHub Copilot) can ship production-grade code, from challenging the requirement to a reviewed pull request.
 
 ## 🧰 Stack
 
 [![Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,tailwind,postgres,mongodb,redis,docker,azure,python&perline=12)](https://skillicons.dev)
 
-| Domaine | Technos |
+| Area | Technologies |
 |---|---|
-| Back-end | C#, .NET 8 → 10, ASP.NET Core (minimal APIs), EF Core, ABP Framework, .NET Aspire |
-| Architecture | DDD, hexagonale, Clean Architecture, CQRS, domain events, tests d'architecture |
-| Front-end | Angular (Nx), React 19 + TypeScript + Vite, TanStack Router/Query, Tailwind CSS |
-| Données & messaging | PostgreSQL, SQL Server, MongoDB, Redis, NATS |
+| Back end | C# 14, .NET 10, ASP.NET Core 10 (minimal APIs), EF Core 10, .NET Aspire, ABP Framework |
+| Legacy .NET | .NET Framework 4.x: maintaining and modernizing existing applications |
+| Architecture | DDD, hexagonal, Clean Architecture, CQRS, domain events, architecture tests |
+| Front end | Angular (Nx), React 19 + TypeScript + Vite, TanStack Router/Query, Tailwind CSS |
+| Data & messaging | PostgreSQL, SQL Server, MongoDB, Redis, NATS |
 | Auth | Keycloak (OIDC/PKCE), OpenIddict |
-| Infra & qualité | Docker, Azure, GitHub Actions, TDD/BDD, xUnit |
-| IA & outillage | Claude Code (agents, skills, hooks), plugins d'agents GitHub Copilot |
+| Infra & quality | Docker, Azure, GitHub Actions, TDD/BDD, xUnit |
+| AI & tooling | Claude Code (agents, skills, hooks), GitHub Copilot agent plugins |
 
-## 🚀 Projets à la une
+## 🚀 Featured projects
 
 ### [SysDesign Arena](https://github.com/Antonin-Artaud/SysDesign-Arena)
-Un « LeetCode » de l'entretien de system design : on lit l'énoncé, on pose exigences et estimations, on dessine l'architecture avec des composants typés, puis on se note sur une grille ouverte face à une solution de référence.
+A LeetCode-style practice site for system design interviews: read the problem, write the requirements and estimates, draw the architecture with typed components, then score your answer against an open rubric and a reference solution.
 `React 19` `ASP.NET Core 10` `DDD` `Keycloak` `PostgreSQL` `React Flow`
 
 ### [ai-driven-dev-harness](https://github.com/Antonin-Artaud/ai-driven-dev-harness)
-Un plugin d'agents pour VS Code et GitHub Copilot qui transforme une demande (prompt, spec ou work item Azure DevOps) en draft PR revue : un agent challenge le besoin, un architecte planifie à partir de la carte d'architecture du projet, un builder implémente en TDD, et un reviewer indépendant (d'une autre famille de modèles) relit le tout. Des hooks posent des garde-fous déterministes.
+An agent plugin for VS Code and GitHub Copilot that turns a request (prompt, spec or Azure DevOps work item) into a reviewed draft PR: one agent challenges the need, an architect plans from the project's architecture map, a builder implements with TDD, and an independent reviewer from a different model family checks the result. Hooks add deterministic guardrails.
 `Agent Plugins` `GitHub Copilot` `Python` `Azure DevOps`
 
-## 🌍 Langues
+## 🌍 Languages
 
-Français (natif) · Anglais (professionnel, à l'aise en équipe internationale)
+French (native) · English (professional working proficiency)
